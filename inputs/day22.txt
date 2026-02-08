@@ -1,0 +1,159 @@
+User 1:
+Favorite Digit: 3
+Favorite Number: 4
+
+User 2:
+Favorite Digit: 6
+Favorite Number: 5
+
+User 3:
+Favorite Digit: 7
+Favorite Number: 5
+
+User 4:
+Favorite Digit: 8
+Favorite Number: 6
+
+User 5:
+Favorite Digit: 8
+Favorite Number: 8
+
+User 6:
+Favorite Digit: 3
+Favorite Number: 2
+
+User 7:
+Favorite Digit: 6
+Favorite Number: 4
+
+User 8:
+Favorite Digit: 4
+Favorite Number: 3
+
+User 9:
+Favorite Digit: 9
+Favorite Number: 7
+
+User 10:
+Favorite Digit: 1
+Favorite Number: 4
+
+User 11:
+Favorite Digit: 0
+Favorite Number: 1
+
+User 12:
+Favorite Digit: 0
+Favorite Number: 8
+
+User 13:
+Favorite Digit: 0
+Favorite Number: 9
+
+User 14:
+Favorite Digit: 0
+Favorite Number: 2
+
+User 15:
+Favorite Digit: 0
+Favorite Number: 7
+
+User 16:
+Favorite Digit: 8
+Favorite Number: 1
+
+User 17:
+Favorite Digit: 1
+Favorite Number: 1
+
+User 18:
+Favorite Digit: 4
+Favorite Number: 1
+
+User 19:
+Favorite Digit: 2
+Favorite Number: 1
+
+User 20:
+Favorite Digit: 6
+Favorite Number: 1
+
+User 21:
+Favorite Digit: 1
+Favorite Number: 1400
+
+User 22:
+Favorite Digit: 6
+Favorite Number: 1900
+
+User 23:
+Favorite Digit: 1
+Favorite Number: 1600
+
+User 24:
+Favorite Digit: 8
+Favorite Number: 1300
+
+User 25:
+Favorite Digit: 9
+Favorite Number: 1250
+
+User 26:
+Favorite Digit: 6
+Favorite Number: 1276
+
+User 27:
+Favorite Digit: 8
+Favorite Number: 1147
+
+User 28:
+Favorite Digit: 9
+Favorite Number: 75
+
+User 29:
+Favorite Digit: 0
+Favorite Number: 1999
+
+User 30:
+Favorite Digit: 4
+Favorite Number: 1530
+
+User 31:
+Favorite Digit: 2
+Favorite Number: 1657
+
+User 32:
+Favorite Digit: 5
+Favorite Number: 1499
+
+User 33:
+Favorite Digit: 1
+Favorite Number: 1552
+
+User 34:
+Favorite Digit: 5
+Favorite Number: 470
+
+User 35:
+Favorite Digit: 2
+Favorite Number: 789
+
+User 36:
+Favorite Digit: 8
+Favorite Number: 301
+
+User 37:
+Favorite Digit: 4
+Favorite Number: 155
+
+User 38:
+Favorite Digit: 0
+Favorite Number: 1299
+
+User 39:
+Favorite Digit: 4
+Favorite Number: 1346
+
+User 40:
+Favorite Digit: 9
+Favorite Number: 572
